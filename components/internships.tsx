@@ -155,7 +155,7 @@ export function Internships() {
                         key={skill}
                         className="text-[10px] uppercase tracking-wider font-medium px-2 py-1 rounded-md bg-secondary/50 text-secondary-foreground/80"
                       >
-                        {skill}s
+                        {skill}
                       </span>
                     ))}
                   </div>
